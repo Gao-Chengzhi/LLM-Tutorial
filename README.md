@@ -1,3 +1,6 @@
+# 个人LLM开发仓库
+跳转链接https://github.com/InternLM/Tutorial
+
 # 书生大模型实战营（第三期闯关大挑战）
 
 ![image](https://github.com/user-attachments/assets/93ff2412-777c-4619-812b-0134eb327cf3)
